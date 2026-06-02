@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <rect width="200" height="50" rx="8" fill="#0a0a0a"/>
+  <path d="M12 16C12 13.7909 13.7909 12 16 12H18C20.2091 12 22 13.7909 22 16V34C22 36.2091 20.2091 38 18 38H16C13.7909 38 12 36.2091 12 34V16Z" fill="#D97706" opacity="0.9"/>
+  <path d="M14 20L20 25L14 30" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="30" y="32" font-family="monospace" font-size="20" font-weight="bold" fill="#f5f5f5" letter-spacing="1">claude code</text>
+  <text x="132" y="32" font-family="monospace" font-size="20" font-weight="300" fill="#D97706" letter-spacing="1">workflows</text>
+</svg>
